@@ -1,4 +1,4 @@
-# gdsc1
+# GDSC Register/Login Screen
 
 A new Flutter project.
 
